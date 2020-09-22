@@ -10,6 +10,6 @@
 
 ### I use...
 
-<img src="(https://user-images.githubusercontent.com/41438361/93878033-67bf8780-fd14-11ea-8472-1fea91fd2094.png" width=10 height=10>
+<img src="(https://user-images.githubusercontent.com/41438361/93878033-67bf8780-fd14-11ea-8472-1fea91fd2094.png" width=30 height=30>
 
 
