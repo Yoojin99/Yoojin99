@@ -2,6 +2,8 @@
 
 ### SW Engineer
 
+[🐱Blog🐱](https://yoojin99.github.io/)
+
 #### I have a GREAT interest in...
 
 * :video_game: Game Programming
