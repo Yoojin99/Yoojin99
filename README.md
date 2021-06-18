@@ -10,7 +10,29 @@
 * 🧠 Machine Learning / Artificial Intelligence
 * :computer: Front end
 
-#### I use/used...
+#### My Tech Stack
 
-<img src="https://user-images.githubusercontent.com/41438361/93878221-ac4b2300-fd14-11ea-8f00-76ebf8edd41a.png" width=30 height=30> <img src="https://user-images.githubusercontent.com/41438361/93878319-d69ce080-fd14-11ea-80dd-35e4eaaf71c8.png" width=30 height=30> <img src="https://user-images.githubusercontent.com/41438361/93878407-fd5b1700-fd14-11ea-9281-f7fae5ed92f5.png" width=30 height=30> <img src="https://user-images.githubusercontent.com/41438361/93879656-0ea52300-fd17-11ea-8bf9-e8223c2bc2a5.png" width=30 height=30> <img src="https://user-images.githubusercontent.com/41438361/93880119-e79b2100-fd17-11ea-8c01-6acd58829950.png" width=30 height=30> <img src="https://user-images.githubusercontent.com/41438361/93879709-2ed4e200-fd17-11ea-82d6-671ad7a85199.png" width=30 height=30> <img src="https://user-images.githubusercontent.com/41438361/93879210-465f9b00-fd16-11ea-8fc7-c2c8e871f077.png" width=30 height=30>
-<img src="https://user-images.githubusercontent.com/41438361/93878647-5b87fa00-fd15-11ea-8a4b-4413f22ad913.png" width=30 height=30> <img src="https://user-images.githubusercontent.com/41438361/93878762-8d995c00-fd15-11ea-9f2b-4814bc0cfae0.png" width=30 height=30> <img src="https://user-images.githubusercontent.com/41438361/93878972-e5d05e00-fd15-11ea-9de4-a029d13c846a.png" width=30 height=30> <img src="https://user-images.githubusercontent.com/41438361/93879954-9e4ad180-fd17-11ea-9fab-c54ae8f3f795.png" width=30 height=30> <img src="https://user-images.githubusercontent.com/41438361/93879304-7149ef00-fd16-11ea-81dd-f0d1481be558.png" width=30 height=30> <img src="https://user-images.githubusercontent.com/41438361/93879410-9f2f3380-fd16-11ea-86df-7a441984d226.png" width=30 height=30> <img src="https://user-images.githubusercontent.com/41438361/93879486-be2dc580-fd16-11ea-9391-1e73678305df.png" width=30 height=30> <img src="https://user-images.githubusercontent.com/41438361/93879554-da316700-fd16-11ea-9134-1618dae88c48.png" width=30 height=30> <img src="https://user-images.githubusercontent.com/41438361/93879850-73f91400-fd17-11ea-92fe-c8087c443899.png" width=30 height=30> <img src="https://user-images.githubusercontent.com/41438361/93880055-c9cdbc00-fd17-11ea-84b5-5eff9d07566f.png" width=30 height=30>
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=CSharp&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift & ObjectiveC-FA7343?style=flat&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatBot(.Net, Google Dialog Flow)-FFD000?style=flat&logo=ChatBot&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=purple"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.NET&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat&logo=MicrosoftAzure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/>
+</div>
