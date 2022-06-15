@@ -1,10 +1,14 @@
 #### Hi there 👋
 
-### SW Engineer
+### iOS Developer
 
-[🐱Blog🐱](https://yoojin99.github.io/)
+#### Blog
 
-#### I have a GREAT interest in...
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=NSKG&postId={insert_postId}&theme=vue)](https://nskg-yj.tistory.com/)
+
+[Github blog](https://yoojin99.github.io/)
+
+#### also I have a GREAT interest in...
 
 * :video_game: Game Programming
 * 🧠 Machine Learning / Artificial Intelligence
