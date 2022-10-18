@@ -10,9 +10,9 @@
 
 #### also I have a GREAT interest in...
 
+*  iOS App Dev
 * :video_game: Game Programming
 * 🧠 Machine Learning / Artificial Intelligence
-* :computer: Front end
 
 #### My Tech Stack
 
